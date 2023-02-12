@@ -4,3 +4,7 @@
 //10119281 - Rezha Satria SP
 //10119287 - Fahmi Chiesa D
 //10119293 - Dwi Irfansyah
+
+IF7 - UNIKOM
+
+GRAFIKA DAN PENGOLAHAN CITRA
